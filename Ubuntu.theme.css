@@ -1,0 +1,19 @@
+/**
+ * @name Ubuntu Dark
+ * @description For old time's sake, and for OG Ubuntu lovers
+ * @author DaBluLite
+ * @version 1.0.0
+ */
+ 
+/*Base of theme based on Nexus/NeoNexus (coming soon...)*/
+@import url(https://dablulite.github.io/Nexus/import.css);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+:root {
+	--ubuntu-background-primary: var(--background-tertiary);
+	--ubuntu-background-secondary: var(--background-floating);
+	--ubuntu-background-tertiary: var(--background-primary);
+	--ubuntu-background-elevated: var(--background-floating);
+	--ubuntu-background-floating: var(--background-floating);
+	--ubuntu-elevation-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgb(0 0 0 / 20%);
+	--ubuntu-font: 'Open Sans';
+}
