@@ -6,7 +6,7 @@
  */
  
 /*Base of theme based on Nexus/NeoNexus (coming soon...)*/
-@import url(https://dablulite.github.io/Nexus/import.css);
+@import url(https://dablulite.github.io/UbuntuTheme/import.css);
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 :root {
 	--ubuntu-background-primary: var(--background-tertiary);
